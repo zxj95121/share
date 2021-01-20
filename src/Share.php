@@ -1,4 +1,5 @@
 <?php
+namespace Zxjdsb\Phpshare;
 class Share
 {
     public function __construct()

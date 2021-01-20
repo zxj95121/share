@@ -23,7 +23,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "Zxjdsb\\Share\\": "src/"
+            "Zxjdsb\\PhpShare\\": "src/"
         }
     }
 }

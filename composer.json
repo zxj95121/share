@@ -21,9 +21,12 @@
     },
     "require-dev": {
     },
-    "autoload-dev": {
+    "autoload": {
+        "classmap": [
+
+        ],
         "psr-4": {
-            "Zxjdsb\\PhpShare\\": "src/"
+            "Zxjdsb\\Phpshare\\": "src/"
         }
     }
 }

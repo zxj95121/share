@@ -1,0 +1,29 @@
+{
+    "name": "zxjdsb/phpshare",
+    "type": "library",
+    "description": "phpshare is a system to share php",
+    "keywords": [
+        "phpshare",
+        "php",
+        "share"
+    ],
+    "homepage": "http://zxjxj.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zxjdsb",
+            "email": "986773071@qq.com",
+            "homepage": "https://zxjxj.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5"
+    },
+    "require-dev": {
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Zxjdsb\\Share\\": "src/"
+        }
+    }
+}
